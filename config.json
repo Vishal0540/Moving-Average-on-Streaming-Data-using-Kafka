@@ -1,0 +1,6 @@
+{
+"CSV_NAME":"RejectedLoans.csv",
+"SERVER":["localhost:9092"],
+"MA_NUMBER":5,
+"TOPIC":"test"
+}
