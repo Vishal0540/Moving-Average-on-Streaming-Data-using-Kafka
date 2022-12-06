@@ -1,3 +1,3 @@
 # Moving-Average-on-Streaming-Data-using-Kafka
 
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![](https://github.com/Moving-Average-on-Streaming-Data-using-Kafka/GIF.gif)
