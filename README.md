@@ -2,4 +2,7 @@
 
 Calculates Real time Moving Average of Risk Score (Loan Data)
 
+Data Source:
+https://www.kaggle.com/wordsforthewise/lending-club
+
 ![](https://github.com/Vishal0540/Moving-Average-on-Streaming-Data-using-Kafka/blob/Main/GIF.gif)
